@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ksanim0
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning React, JavaScript, PHP
+- 🌱 I’m currently learning React, JavaScript, PHP and Ruby
 - 📫 How to reach me edmison2013junior@gmail.com
 
 <!---
